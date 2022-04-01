@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "ikIRhI6yJK1n+6BvxDUG721Xr+5lHogqkRX4E4uQ2XUNzJpBA6kSymzOCJVcL8H6OnctP3D2fTboUuds09838w==",
+  "success": true,
+  "projectFilePath": "G:\\disco portatil 5 gigas\\Mis Documentos\\VisualStudio\\source\\repos\\CalculadoraIMC\\CalculadoraIMC\\CalculadoraIMC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\afgra\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\afgra\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\afgra\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\afgra\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\afgra\\.nuget\\packages\\xamarin.forms\\5.0.0.2401\\xamarin.forms.5.0.0.2401.nupkg.sha512"
+  ],
+  "logs": []
+}

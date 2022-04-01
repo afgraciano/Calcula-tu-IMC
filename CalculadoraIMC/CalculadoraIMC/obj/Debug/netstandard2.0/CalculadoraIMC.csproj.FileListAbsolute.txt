@@ -1,0 +1,15 @@
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.deps.json
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.dll
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\bin\Debug\netstandard2.0\CalculadoraIMC.pdb
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.AssemblyReference.cache
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.GeneratedMSBuildEditorConfig.editorconfig
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\App.xaml.g.cs
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfoInputs.cache
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.AssemblyInfo.cs
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.csproj.CoreCompileInputs.cache
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\XamlC.stamp
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.dll
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\refint\CalculadoraIMC.dll
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\CalculadoraIMC.pdb
+G:\disco portatil 5 gigas\Mis Documentos\VisualStudio\source\repos\CalculadoraIMC\CalculadoraIMC\obj\Debug\netstandard2.0\ref\CalculadoraIMC.dll
