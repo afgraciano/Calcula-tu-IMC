@@ -32,7 +32,7 @@
                 <FormattedString>
                     <FormattedString.Spans>
                         <Span Text="Podemos agregar una direccion de pagina en este caso la direccion de nuestro repositorio "/>
-                        <Span Text="https://github.com/BryanZuleta/Calculadora.git" FontAttributes="Bold"/>
+                        <Span Text="https://github.com/afgraciano/Calcula-tu-IMC.git" FontAttributes="Bold"/>
                     </FormattedString.Spans>
                 </FormattedString>
             </Label.FormattedText>
